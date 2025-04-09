@@ -27,7 +27,7 @@ The technologies and tools I have explored include:
 📬 **contact me :**
 [LinkedIn](https://fr.linkedin.com/in/sugdenaz-ekici-4a2695303)
 🎲 **Fun Fact:**
-*I collect fun anecdotes and Easter eggs... do you know one? *
+* I collect fun anecdotes and Easter eggs... do you know one? *
 
 ---
 
