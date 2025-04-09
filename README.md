@@ -13,14 +13,9 @@ Collaborating with passionate minds and pushing the boundaries of creativity.
 
 ### My Skills :rocket:
 
+The technologies and tools I have explored include:  
 
----
-
-## 🚀 **Mes compétences principales :**
-
-Voici les technologies et outils que j'ai explorés :  
-
-| Langages            | Frameworks/Libs       | Bases de données    | Outils                |
+| languages           | Frameworks/Libs       |databases            | tools                |
 |---------------------|-----------------------|---------------------|-----------------------|
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)     | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)  | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)         |
 | ![Python](https://img.shields.io/badge/Python-FFCE3D?style=flat-square&logo=python&logoColor=black) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)              | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)        | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
@@ -29,14 +24,12 @@ Voici les technologies et outils que j'ai explorés :
 
 ---
 
-📬 **Me Contacter :**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/sugdenaz-ekici-4a2695303)
-
-🎲 **Fun Fact :**
-*Je collectionne des anecdotes amusantes et des Easter eggs... En connaissez-vous un ?*
+📬 **contact me :**
+[LinkedIn](https://fr.linkedin.com/in/sugdenaz-ekici-4a2695303)
+🎲 **Fun Fact:**
+*I collect fun anecdotes and Easter eggs... do you know one? *
 
 ---
 
-> **"Chaque ligne de code raconte une histoire, et chaque projet est une œuvre unique."**  
-
+> **"Each line of code tells a story, and each project is unique." **  
 "Every line of code is a chance to create something unique."
