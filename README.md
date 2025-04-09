@@ -12,7 +12,7 @@ I'm diving into the fascinating world of web development.
 Collaborating with passionate minds and pushing the boundaries of creativity.
 
 📬 **How to Reach Me:**  
-[![LinkedIn](https://fr.linkedin.com/in/sugdenaz-ekici-4a2695303)/)
+[LinkedIn](https://fr.linkedin.com/in/sugdenaz-ekici-4a2695303)
 
 🎲 **A Little Secret:**  
 I collect fun anecdotes and hidden Easter eggs in software... Do you know any?
