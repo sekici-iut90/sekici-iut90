@@ -1,19 +1,21 @@
-🎉 Bienvenue dans mon univers : @sekici-iut90
+🎉 Welcome to my world: @sekici-iut90
 ---
-✨ **À propos de moi :**  
-Curieuse invétéré et exploratrice du code. J'aime transformer des idées en projets concrets.  
-🔍 Toujours à la recherche de nouvelles technologies pour nourrir ma passion et élargir mes horizons.
+✨ **About Me:**  
+A curious explorer of code, I love turning ideas into concrete projects.  
 
-🌱 **Ce que j'apprends actuellement :**  
-Je plonge dans le monde fascinant du développement web.
+🔍 Always on the lookout for new technologies to fuel my passion and broaden my horizons.
 
-💡 **Ce qui m'inspire :**  
-Collaborer avec des esprits passionnés et repousser les limites de la créativité.
+🌱 **What I'm Currently Learning:**  
+I'm diving into the fascinating world of web development.
 
-📬 **Pour me joindre :**  
-LinkdIn
-🎲 **Un petit secret :**  
-Je collectionne les anecdotes fun et les clins d'œil cachés dans les logiciels... Vous en connaissez ?
+💡 **What Inspires Me:**  
+Collaborating with passionate minds and pushing the boundaries of creativity.
+
+📬 **How to Reach Me:**  
+LinkedIn  
+
+🎲 **A Little Secret:**  
+I collect fun anecdotes and hidden Easter eggs in software... Do you know any?
 
 ---
-"Chaque ligne de code est une chance de créer quelque chose d’unique." 🚀
+"Every line of code is a chance to create something unique."
