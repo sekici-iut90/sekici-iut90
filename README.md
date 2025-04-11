@@ -29,7 +29,7 @@ The technologies and tools I have explored include:
 
 
 🎲 **Fun Fact:**
-* I collect fun anecdotes and Easter eggs... do you know one? *
+ I collect fun anecdotes and Easter eggs... do you know one?
 
 ---
 
