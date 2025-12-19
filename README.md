@@ -53,13 +53,6 @@
 
 ---
 
-##  Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ##  Actuellement
 -  Montée en compétence **React + TypeScript**
 -  Construction de projets solides (et présentables)
@@ -69,9 +62,13 @@
 ##  Me retrouver
 -  GitHub : ici même, tu es déjà trop loin pour reculer
 -  LinkedIn : si tu veux faire ça sérieusement
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sugdenaz-ekici)
 
 ---
 
 ⭐ Si tu trouves un repo utile, cool  
 ⭐ Si tu le forks, encore mieux  
 ⭐ Si ça bug… c’est sûrement voulu
+
+---
+🖤 *Si ça marche, je l’ai fait exprès. Sinon, c’était un test.*
