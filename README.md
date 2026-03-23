@@ -13,7 +13,7 @@ Always on the lookout for new technologies to fuel my passion.
 
 ---
 
-### My Skills :rocket:
+### My Skills 
 
 | Languages | Frameworks/Libs | Databases | Tools |
 | :--- | :--- | :--- | :--- |
