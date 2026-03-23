@@ -30,4 +30,4 @@
 * **💼 LinkedIn:** [linkedin.com/in/sugdenaz-ekici](https://linkedin.com/in/sugdenaz-ekici)
 
 ---
-![Stats GitHub de sekici-iut90](https://github-readme-stats.vercel.app/api?username=sekici-iut90&show_icons=true&count_private=true&theme=tokyonight)
+![Stats GitHub de sekici-iut90](https://github-readme-stats.vercel.app/api?username=sekici-iut90&show_icons=true&count_private=true&theme=tokyonight&v=1)
