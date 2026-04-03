@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m Sugdenaz | @sekici-iut90
+# 👋 Hi, I’m Sugdenaz 
 
 ---
 
